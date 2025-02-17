@@ -1,2 +1,4 @@
 # learn-git
-Trying to learn git commands 
+Trying to learn git commands
+Updated READme.mds 
+
